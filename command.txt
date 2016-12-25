@@ -1,0 +1,2 @@
+ifort /Qopenmp OpenMP_HELLO.f90
+OpenMP_HELLO.exe >result.txt

@@ -1,0 +1,18 @@
+ Display Hello world!
+ Number of threads used =           16
+ Hello world from thread number            8
+ Hello world from thread number           11
+ Hello world from thread number            0
+ Hello world from thread number           14
+ Hello world from thread number           15
+ Hello world from thread number            3
+ Hello world from thread number           12
+ Hello world from thread number            1
+ Hello world from thread number            4
+ Hello world from thread number            6
+ Hello world from thread number            9
+ Hello world from thread number            7
+ Hello world from thread number            2
+ Hello world from thread number           10
+ Hello world from thread number           13
+ Hello world from thread number            5
